@@ -1,5 +1,5 @@
 /*Q) Write a Java program to read a floating-point number and if the number is zero it prints "zero", otherwise, print "positive" or "negative". Add "small" if the
-     absolute value of the number is less than 1, or "large" if it exceeds 1,00,000. */
+     absolute value of the number is less than 1, or "large" if it exceeds 100000 */
 
 import java.util.Scanner;
 class Float{
