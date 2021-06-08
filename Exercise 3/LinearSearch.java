@@ -20,7 +20,7 @@ int i,j;
 
     }
   
-  System.out.println("ENTERD ELEMENTS ARE" );// displaying entred elements
+  System.out.println("ENTERED ELEMENTS ARE" );// displaying entred elements
 
      for (i=0;i<size;i++)
      {
@@ -37,7 +37,7 @@ int i,j;
    
       if (Array[i]==SEARCH) // checking
       {
-       System.out.println("Number "+SEARCH+" Found At Position"+(i+1));
+       System.out.println("Number "+SEARCH+" Found At Position "+(i+1));
         
       }
       else
@@ -72,7 +72,7 @@ ENTERD ELEMENTS ARE
 8
 6
 Enter the Element to be Searched: 4
-Number 4 Found At Position3
+Number 4 Found At Position 3
 4 NOT FOUND
 
 -------------------------------------------------*/
