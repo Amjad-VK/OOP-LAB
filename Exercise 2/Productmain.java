@@ -68,13 +68,19 @@ public static void main(String args[]){
 
  if(P1.price < P2.price && P1.price < P3.price){
     System.out.println("product name : "+ P1.pname);
+    System.out.println("product code  : "+ P1.pcode);
+    System.out.println("product price : "+ P1.price);
    }
  else if( P2.price < P1.price && P2.price < P3.price ){
  
     System.out.println("product name : "+ P2.pname);
+    System.out.println("product code  : "+ P2.pcode);
+    System.out.println("product price : "+ P2.price); 
  }
  else{
-     System.out.println("product name : "+ P3.pname);   
+     System.out.println("product name : "+ P3.pname);
+     System.out.println("product code  : "+ P3.pcode);
+     System.out.println("product price : "+ P3.price);    
  } 
   
 
@@ -89,14 +95,16 @@ product price : 56
 product name  : Scale
 product code  : 2
 product price : 12
-ENTER PRODUCT NAME : cap
+ENTER PRODUCT NAME : Pot  
 ENTER PRODUCT PCODE : 3
-ENTER PRODUCT PRICE : 9
-product name  : cap
+ENTER PRODUCT PRICE : 69
+product name  : Pot
 product code  : 3
-product price : 9
+product price : 69
 -----------PRODUCT WITH LOWEST PRICE----------
-product name : cap
+product name : Scale
+product code  : 2
+product price : 12
 
 
 
