@@ -128,3 +128,4 @@ Area of rectangle :30.0
 Select your choice: 5
 
 */
+//Verified
