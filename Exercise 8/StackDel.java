@@ -48,3 +48,4 @@ Enter index position to be removed:1
 Final Stack: [Violet, Blue, Green, Yellow]
 
 */
+Verified
