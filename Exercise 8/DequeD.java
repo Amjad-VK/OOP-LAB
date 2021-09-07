@@ -51,3 +51,4 @@ Removing last element :Orange
 Final deque:[]
 
 */
+Verified
