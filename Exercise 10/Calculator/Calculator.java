@@ -59,3 +59,4 @@ class Calculator {
     calc.setVisible(true);
   }
 }
+Verified
